@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Creative on Melinda Ogley</title>
+    <link>https://melindaogley.com/tags/creative/</link>
+    <description>Recent content in Creative on Melinda Ogley</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 May 2024 14:08:42 +0530</lastBuildDate>
+    <atom:link href="https://melindaogley.com/tags/creative/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://melindaogley.com/posts/about-me/</link>
+      <pubDate>Sun, 05 May 2024 14:08:42 +0530</pubDate>
+      <guid>https://melindaogley.com/posts/about-me/</guid>
+      <description>Introducing Melinda Ogley</description>
+    </item>
+  </channel>
+</rss>
